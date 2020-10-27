@@ -1,5 +1,11 @@
 {
-	"author": "tinapino",
+	"author": "tina-pino",
+	"description": "A large scary file that will become less scary someday",
+	"keywords": [
+		"freecodecamp",
+		"helpimtrappedinsideofapackagedotjsonfile"
+	],
+  "license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
